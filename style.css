@@ -49,6 +49,10 @@ h1{
     background-position: right;
 
 }
+.dreamer_section .half_width{
+  padding-left: none;
+  padding-right: 8%;
+}
 .experience_sec{
     background: url(images/exp-bg.png) no-repeat;
     background-position: left;
