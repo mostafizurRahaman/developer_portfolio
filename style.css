@@ -82,6 +82,13 @@ h1{
 
   
 }
+footer{
+    background: orange;
+    padding:3px;
+}
 footer p{
     text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
 }
