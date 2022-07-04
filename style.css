@@ -35,12 +35,12 @@ h1{
 .link_btn{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
-   padding: 10px 40px;
-    border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
+    padding: 10px 40px;
+    border-radius:7 px;
+    -webkit-border-radius:7 px;
+    -moz-border-radius:7 px;
+    -ms-border-radius:7 px;
+    -o-border-radius:7 px;
     font-weight: 700;
     color: white;
 }
